@@ -1,25 +1,25 @@
-# The Turing Test
+# Test Turinga
 
 ![](robot.png)
 
-## Introduction
+## Wstęp
 
 This scheme of work has been designed as an introduction to text-based programming using Python on the Raspberry Pi. By the end of all the lessons, students will have created an interactive chat bot and been introduced to the computer science concept of artificial intelligence.
 
 This scheme of work is specifically targeted towards introductory KS2 Computing, although these lessons could be used as a wider scheme of work at KS3. This has been developed in harmony with the new Computing curriculum in the UK.
 
-##Learning outcomes:
+##Efekty kształcenia:
 
-Over the course of three lessons, students will learn:
+W trakcie kursu składającego się z trzech lekcji, uczniowie opanują:
 
-- What a Raspberry Pi is, what its main features are, and how to set up and use one.
-- How to program a Raspberry Pi to act as a chat robot.
-- What is meant by artificial intelligence, in particular relating to the Turing test.
-- The following computer science concepts:
-	- Sequencing
-	- Debugging
-	- User input
-	- Print statements
+- Czym jest Raspberry Pi, jakie posiada możliwości, jak złożyć i skonfigurować jeden zestaw.
+- Nauczą się programowania Raspberry Pi tak aby mówił jak robot.
+- Czym jest sztuczna inteligencja, w odniesieniu do Testu Turinga
+- Następujące pojęcia związane z Infromatyką
+	- Sekwencjonowanie
+	- Debugowanie
+	- User input # Do tłumaczenia
+	- Print statements # Do tłumaczenia
 
 
 ##Computing Programme of Study Met
