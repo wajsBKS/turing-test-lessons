@@ -1,4 +1,4 @@
-# Lesson 1 - How do Computers Think? 
+# Lekcja 1 - Jak komputery myślą? 
 
 ##Introduction
 
